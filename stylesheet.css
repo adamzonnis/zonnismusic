@@ -415,6 +415,17 @@ margin: auto;
   font-size: 20px;
   font-family: 'Jua', sans-serif;
 }
+#biopara6 {
+  display:block;
+  margin-top: ;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 50%;
+  text-align:left;
+  color: black;
+  font-size: 20px;
+  font-family: 'Jua', sans-serif;
+}
 
 
 #formdiv{
@@ -555,6 +566,9 @@ font-size: 20px;
   #biopara {
     font-size: 15px;
     width:80%;
+  }
+  #biopara6 {
+    max-width: 90%;
   }
   #header3 {
     font-size: 20px;
